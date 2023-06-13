@@ -1,0 +1,23 @@
+.footer{
+    display: flex;
+    align-items:center;
+    background-color: #3761af;
+    padding: 50px;
+    color: white;
+    
+  }
+  .woman{
+    margin-left: 10%;
+  }
+  
+  .about{
+    margin-left: 10%;
+  }
+  
+  .subscribe{
+    margin-left: 10%;
+  }
+  
+  .list{
+    list-style-type: none;
+  }
